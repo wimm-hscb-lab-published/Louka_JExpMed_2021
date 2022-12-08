@@ -1,0 +1,4 @@
+Category	Genes
+JMML HSC vs. JMML GMP	679
+JMML HSC vs. CB HSC	118
+>1 TPM in >50% JMML HSC	24

@@ -1,0 +1,7 @@
+Comparison	significant.genes
+JMML HSC vs. JMML GMP	224
+JMML HSC vs. JMML DP	229
+JMML GMP vs. JMML DP	159
+CB HSC vs. CB GMP	267
+JMML HSC vs. CB HSC	532
+JMML HSC vs. CB GMP	674
